@@ -1,0 +1,2 @@
+# Profitable_Free_App_Profiles_IOS_GooglePlay
+In this project we aim to find the main characterstics of the most profitable apps on Apple Store and Google Play. For apps that are free to download and install, the main source of revenue is the in-app ads which means that the number of users dirrectely influences the profite.  We are going to analyze the data in order to know which apps are more appealing to users, hence: attracts the highest number of users.
